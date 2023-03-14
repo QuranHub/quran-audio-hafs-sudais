@@ -1,2 +1,2 @@
 # quran-audio-hafs-sudais
-Quran Audio by Abdul Rahman Al-Sudais
+Quran Audio for *Hafs* recitation by **Abdul Rahman Al-Sudais**.
